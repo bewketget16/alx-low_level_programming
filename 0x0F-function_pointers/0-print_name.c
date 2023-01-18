@@ -1,6 +1,3 @@
-0-print_name.c CODE
-
-
 #include "function_pointers.h"
 	#include <stdio.h>
 	/**
@@ -17,4 +14,3 @@
 
 		f(name);
 	}
-
